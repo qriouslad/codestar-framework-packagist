@@ -2,7 +2,7 @@
     "name": "qriouslad/codestar-framework",
     "description": "Composer package for the Codestar Framework",
     "type": "library",
-    "license": "GNU General Public License v2.0",
+    "license": "GPL-2.0-only",
     "authors": [
         {
             "name": "Bowo",
